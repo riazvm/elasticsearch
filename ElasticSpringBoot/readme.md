@@ -1,6 +1,6 @@
 Download 
-https://grouplens.org/datasets/movielens/
-ml-latest-small.zip
+https://grouplens.org/datasets/movielens/ml-latest-small.zip
+
 http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
 
 Extract the files
